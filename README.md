@@ -24,8 +24,9 @@ Instalation
 .. code:: python
  
        pip install shap-selection
-
-
+       conda install -c conda-forge shap
+       conda install catboost
+       
 -----------
 Citation
 -----------
